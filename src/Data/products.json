@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "name": "Книга 1",
+    "price": "100 UAH",
+    "image": "../../src/assets/images/product1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Книга 2",
+    "price": "110 UAH",
+    "image": "../../src/assets/images/product2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Книга 3",
+    "price": "120 UAH",
+    "image": "../../src/assets/images/product3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Книга 4",
+    "price": "130 UAH",
+    "image": "../../src/assets/images/product4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Книга 5",
+    "price": "140 UAH",
+    "image": "../../src/assets/images/product2.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Книга 6",
+    "price": "150 UAH",
+    "image": "../../src/assets/images/product1.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Книга 7",
+    "price": "160 UAH",
+    "image": "../../src/assets/images/product3.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Книга 8",
+    "price": "170 UAH",
+    "image": "../../src/assets/images/product4.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Книга 9",
+    "price": "180 UAH",
+    "image": "../../src/assets/images/product1.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Книга 10",
+    "price": "190 UAH",
+    "image": "../../src/assets/images/product2.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Книга 11",
+    "price": "200 UAH",
+    "image": "../../src/assets/images/product4.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Книга 12",
+    "price": "210 UAH",
+    "image": "../../src/assets/images/product3.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Книга 13",
+    "price": "220 UAH",
+    "image": "../../src/assets/images/product1.jpg"
+  }
+]

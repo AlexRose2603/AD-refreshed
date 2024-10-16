@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "name": "Товар № 1",
+    "description": "Aliquam erat volutpat.Aliquam sagittis dui vel pellentesque luctus. Maecenas non efficitur leo. Interdum et malesuada fames ac ante ipsum primis in faucibus.",
+    "price": "60.00 UAH",
+    "image": "../../src/assets/images/product1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Товар № 2",
+    "description": "Pellentesque ullamcorper risus in tellus dignissim tincidunt. Nulla augue augue, commodo eget accumsan sed, tristique non erat. Sed interdum ut mauris sit amet accumsan.",
+    "price": "50.00 UAH",
+    "image": "../../src/assets/images/product2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Товар № 3",
+    "description": "Aliquam erat volutpat.Aliquam sagittis dui vel pellentesque luctus. Maecenas non efficitur leo. Interdum et malesuada fames ac ante ipsum primis in faucibus.",
+    "price": "70.00 UAH",
+    "image": "../../src/assets/images/product3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Товар № 4",
+    "description": "Pellentesque ullamcorper risus in tellus dignissim tincidunt. Nulla augue augue, commodo eget accumsan sed, tristique non erat. Sed interdum ut mauris sit amet accumsan.",
+    "price": "68.00 UAH",
+    "image": "../../src/assets/images/product4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Товар № 5",
+    "description": "Aliquam erat volutpat.Aliquam sagittis dui vel pellentesque luctus. Maecenas non efficitur leo. Interdum et malesuada fames ac ante ipsum primis in faucibus.",
+    "price": "84.00 UAH",
+    "image": "../../src/assets/images/product2.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Товар № 6",
+    "description": "Pellentesque ullamcorper risus in tellus dignissim tincidunt. Nulla augue augue, commodo eget accumsan sed, tristique non erat. Sed interdum ut mauris sit amet accumsan.",
+    "price": "113.00 UAH",
+    "image": "../../src/assets/images/product1.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Товар № 7",
+    "description": "Aliquam erat volutpat.Aliquam sagittis dui vel pellentesque luctus. Maecenas non efficitur leo. Interdum et malesuada fames ac ante ipsum primis in faucibus.",
+    "price": "95.00 UAH",
+    "image": "../../src/assets/images/product3.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Товар № 8",
+    "description": "Pellentesque ullamcorper risus in tellus dignissim tincidunt. Nulla augue augue, commodo eget accumsan sed, tristique non erat. Sed interdum ut mauris sit amet accumsan.",
+    "price": "113.00 UAH",
+    "image": "../../src/assets/images/product4.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Товар № 9",
+    "description": "Aenean id arcu et ex mattis hendrerit in at justo. Praesent accumsan erat ut sapien venenatis, in porta sapien blandit. Nam semper urna ut enim pellentesqu sollicitudin.",
+    "price": "97.00 UAH",
+    "image": "../../src/assets/images/product1.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Товар № 10",
+    "description": "Pellentesque ullamcorper risus in tellus dignissim tincidunt. Nulla augue augue, commodo eget accumsan sed, tristique non erat. Sed interdum ut mauris sit amet accumsan.",
+    "price": "127.00 UAH",
+    "image": "../../src/assets/images/product2.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Товар № 11",
+    "description": "Pellentesque ullamcorper risus in tellus dignissim tincidunt. Nulla augue augue, commodo eget accumsan sed, tristique non erat. Sed interdum ut mauris sit amet accumsan.",
+    "price": "150.00 UAH",
+    "image": "../../src/assets/images/product4.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Товар № 12",
+    "description": "Aenean id arcu et ex mattis hendrerit in at justo. Praesent accumsan erat ut sapien venenatis, in porta sapien blandit. Nam semper urna ut enim pellentesqu sollicitudin.",
+    "price": "100.00 UAH",
+    "image": "../../src/assets/images/product3.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Товар № 13",
+    "description": "Pellentesque ullamcorper risus in tellus dignissim tincidunt. Nulla augue augue, commodo eget accumsan sed, tristique non erat. Sed interdum ut mauris sit amet accumsan.",
+    "price": "110.00 UAH",
+    "image": "../../src/assets/images/product1.jpg"
+  }
+]
